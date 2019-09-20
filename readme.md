@@ -1,6 +1,6 @@
 # mini games made in java
 
-**some old mini-games I made in java that are somewhat fun**
+**Some old mini-games I made in java that are somewhat fun. To play any of them, just download the jar file in the appropriate folder and double click to open locally.**
 
 |              Battlefight              |                       Fire place                       |        Hail storm         |
 | :-----------------------------------: | :----------------------------------------------------: | :-----------------------: |
