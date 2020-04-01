@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "poker-272823",
+  "private_key_id": "222eab972304a710b488635a527e90e767e1e918",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDOcG2aLoa1tW7u\nvyVRVwhVwy77MEKV9xenXPGBqqN4rqt3xedZk7XMbnEF+jbMZo62FIRAupEs0L79\ny6fYUjKeQzGZ3XB1dDTwfJ9IadzObBUswn/M7kSBwbXgy52tViCNROzG37XsQw5/\nmqnpEzi6kSPXqziVEcxyAW8ix1B3rWZ3J76hcNNcezeZlaYoxqjXvrgSjhRSb1HI\nLYZZMWdPoTIkMOcblkEi+re9NCrOLwaLHRJcqi9jAGFUO4ce/Y4tiGjqylSfzsN1\nru8K1I7ihMv33C8n6ON/S7/mE/gS2rVbNDE/BJzcFm2lOJvSlhf6ZsE7IWi3dKPg\n1hA5UB5nAgMBAAECggEACfGkHef9firkp+RriEJVzkfDb2m7iLITy3CF2OtJdN/j\ntjZsC/EPse659qyUT36Qg5hzvGh1jhU/YJtFlP0fShH42tgDTu0PkGv4V4pzOTrp\n6Yje6MCranKpxPpvOHEXH/xAyYhEy5d5TyU556u7hk/FIbeHggq5mzOS0Q03xOPu\nXCEZdM6yUPBmcHO+EkgSPgxHHNI1Oqwx8BDe8HgBS7lzHan55c2/hfmYvG/bt15V\naRK7G56NxoC2I4vxFqM3Kqhkya7iFltlNmTdJdSAkXxO3rYYoJyP6/uCtmWWiNSx\nn3BttAofYJJQmBjPAl4mKeeEr3Gtku3e8DKuq1vXBQKBgQDy8AiejSBtzQF6uqnm\ncPutwFgFLM9ud5mORepq9YhP1ZUDZPMSkxqrmgpzQYtT3qNmQ9/VNkHSHP+QhXvo\nIZQnKmE+RfP6IC7NdZiEb0U1pzc9uLRM+lRRBqqnIEz/2aLef2Lc4xQ1cwAyvfDI\nf5emUvhlRCjymMKZb0POKVIVnQKBgQDZigDzkPvKzwkfJ7OTcE9/97gF45jF3pyt\nmxenW13NNADJ0QHUR9pDBGvdVC+oydUrTs9ec4PPRf2gw/vII3zakWMIJU2iXmsV\nAkHklY9zj6aRZO9OecQodt09N+EIiyGp8ulqmFBpkh5JFqkrjbhZZxF8ZE9MSzT9\nvzIJkE8m0wKBgAIK4JesqhQiQBvvC9SjKIqKbnMEsG3GVaUrk0/45n99VTZlF+IV\nGIlOzz2u1GQNICSQ94XMYftJQSDO7n7CIYO+yHiEkAuPT7Vsgq7CXLuZv04mimWH\nSUQxISgsjlksVEE4ovUmd5oHcH38uNSGthiw4+O+EfYQMLqng9Ns54LFAoGBAIim\neBKIcKLliwVXGyby1f28zoxkfANP43vqgOFQM4xDrnsYH94JhMG0dU2DJK0SnCWo\nS/s49QOvI7NpaTA/mp5x1ZO4Wxwz03BPCrVcfdBJ3IhYrzrMorwIbtGV2HZVb8Ai\nJx4er+ShNQUUhxAk5jjC1ekd2fJDC/aZtATt8cqhAoGBAI0lXR03dS2GA4rrFQiL\nEAC3OdJRozCiSdc6vTOE4WYjbHJWzrmiqGaYyoV5Cz8xL+EsnyodiCdPWgrKeqhJ\nM/mNwXNUJ3HoD2fzbENwf5bRsD3zU4vH8g2qStKQ7pAbw6FQe8q5UkX9iM5YYstw\nn3vbPfzAxwdI2t7WN0MhUXVE\n-----END PRIVATE KEY-----\n",
+  "client_email": "chandan@poker-272823.iam.gserviceaccount.com",
+  "client_id": "105696780545937879825",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chandan%40poker-272823.iam.gserviceaccount.com"
+}
